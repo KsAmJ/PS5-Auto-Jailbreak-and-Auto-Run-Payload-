@@ -3,18 +3,21 @@ Jailbreak and Load autorun.bin or autorun.elf once the jailbreak is done. with f
 
 **Ready-to-flash package for ESP32-S3 (16MB) boards. A modified offline host version based on [idlesauce UTMX2](https://github.com/idlesauce/umtx2)**
 
-**What's New:**
-
-- etaHEN 2.3b support
-- New File Manager
+**Features:**
+- Latest etaHEN 2.3b support
 - Auto Payload Execution: just upload either autorun.elf or autorun.bin to be run once the jailbreak is done. (Auto loads etaHEN 2.3b by default as it names as autorun.bin)
 - use L1 to show the console log (default is hidden now)
-- UI improvements
+- New File Manager
+    - Ability to rename payloads to modify the autorun payloads even from PS5 itself
+    - New Icons and Storage Size Bar
+- More freed storage ≈15 mb in total
 - New Background Animation
 - Liquid Glass Buttons 🥛
 - More Payloads per row
 - Payload description on hover
+- Energy Saving & Sleep Mode ♻️: The board will run for 5 minutes then it will enter sleep mode after to save energy and prevent overheating. If you wish to keep the board running, then hold the RESET button for 2 seconds when the green LED light is up until it changes the green LED color 🟢 to 🌈 multi RGB colors cycle. (To wake up the board either press one time on the BOOT button or power cycle it)
 
+<img width="352" height="196" alt="image" src="https://github.com/user-attachments/assets/b5817a26-9b0c-481f-8599-f08c39b4d048" />
 
 **PS5 UTMX2 with the following Payloads included**
 
@@ -22,7 +25,7 @@ Jailbreak and Load autorun.bin or autorun.elf once the jailbreak is done. with f
 
 **Access the admin page to manage payloads on http://10.1.1.1/admin**
 
-<img width="846" height="899" alt="image" src="https://github.com/user-attachments/assets/e7facfe9-1da7-4625-b13b-881e1ce5a2af" />
+<img width="882" height="680" alt="image" src="https://github.com/user-attachments/assets/c2f2d05a-6904-47e1-ba96-e33cfbdb9c61" />
 
 **How to use:**
 
