@@ -26,6 +26,10 @@ Board Link Sample: [Aliexpress](https://www.aliexpress.com/item/1005009169425759
 
 <img width="882" height="680" alt="image" src="https://github.com/user-attachments/assets/c2f2d05a-6904-47e1-ba96-e33cfbdb9c61" />
 
+Youtube Showcase
+
+[![YouTube Showcase](https://img.youtube.com/vi/9uR-GHJIST8/0.jpg)](https://www.youtube.com/watch?v=9uR-GHJIST8?si=aqvrtfWnTFVA_c1n&amp;start=463)
+
 **How to use:**
 
 Use [NodeMCU PyFlasher](https://github.com/marcelstoer/nodemcu-pyflasher/releases) to flash the **AutoJB+AutorunPayload-2.1.bin** file then disconnect/connect the usb to power cycle
