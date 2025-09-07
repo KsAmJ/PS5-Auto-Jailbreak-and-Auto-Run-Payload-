@@ -1,11 +1,12 @@
-# PS5-Auto-Jailbreak-and-Auto-Run-Payload-
-Jailbreak and Load autorun.bin or autorun.elf once the jailbreak is done. with file upload manager for ESP32-S3 Boards with 16 mb. Based on UTMX2
+# PS5 Auto Jailbreak and Auto Run Payload
+**Auto Jailbreaks and Load autorun.bin or autorun.elf once the jailbreak is done for ESP32-S3 (16MB) boards. Based on [idlesauce UTMX2](https://github.com/idlesauce/umtx2) with an admin file manager. Supports PS5 firmware 1.00-5.50**
 
-**Ready-to-flash package for ESP32-S3 (16MB) boards. A modified offline host version based on [idlesauce UTMX2](https://github.com/idlesauce/umtx2)**
+Board Link Sample: [Aliexpress](https://www.aliexpress.com/item/1005009169425759.html?spm=a2g0o.order_list.order_list_main.5.7c081802iYkPup)
+
+<img width="352" height="196" alt="image" src="https://github.com/user-attachments/assets/b5817a26-9b0c-481f-8599-f08c39b4d048" />
 
 **Features:**
-- Latest etaHEN 2.3b support
-- Auto Payload Execution: just upload either autorun.elf or autorun.bin to be run once the jailbreak is done. (Auto loads etaHEN 2.3b by default as it names as autorun.bin)
+- Auto Payload Execution: just upload either "autorun.elf" or "autorun.bin" to be run once the jailbreak is done. (Auto loads etaHEN 2.3b by default as it names as autorun.bin)
 - use L1 to show the console log (default is hidden now)
 - New File Manager
     - Ability to rename payloads to modify the autorun payloads even from PS5 itself
@@ -16,8 +17,6 @@ Jailbreak and Load autorun.bin or autorun.elf once the jailbreak is done. with f
 - More Payloads per row
 - Payload description on hover
 - Energy Saving & Sleep Mode ♻️: The board will run for 5 minutes then it will enter sleep mode after to save energy and prevent overheating. If you wish to keep the board running, then hold the RESET button for 2 seconds when the green LED light is up until it changes the green LED color 🟢 to 🌈 multi RGB colors cycle. (To wake up the board either press one time on the BOOT button or power cycle it)
-
-<img width="352" height="196" alt="image" src="https://github.com/user-attachments/assets/b5817a26-9b0c-481f-8599-f08c39b4d048" />
 
 **PS5 UTMX2 with the following Payloads included**
 
