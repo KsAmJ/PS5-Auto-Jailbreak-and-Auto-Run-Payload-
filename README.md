@@ -17,7 +17,7 @@ Board Link Sample: [Aliexpress](https://www.aliexpress.com/item/1005009169425759
 - More Payloads per row
 - Payload description on hover
 - Energy Saving & Sleep Mode ♻️: The board will run for 5 minutes then it will enter sleep mode after to save energy and prevent overheating. If you wish to keep the board running, then hold the RESET button for 2 seconds when the green LED light is up until it changes the green LED color 🟢 to 🌈 multi RGB colors cycle. (To wake up the board either press one time on the BOOT button or power cycle it)
-- PS5 User Guide Integration: Now you can use the User Guide to load the Auto JB. Just Accept the Certificate and it will JB + Auto load payload. You can either use the User Guide or ESP Host App "Recommended after 1st JB be installed and used"
+- PS5 User Guide Integration: Now you can use the User Guide to load the Auto JB. Just Accept the Certificate and it will JB + Auto load payload. You can either use the User Guide or "ESP Host App" which is Recommended after 1st JB to be installed and used
 
 **PS5 UTMX2 with the following Payloads included**
 
